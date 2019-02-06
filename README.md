@@ -1,5 +1,6 @@
 
 This is a direct copy of the Spark Max motor controller library.  I copied them so we could access the Java versions in order to see the intended syntax and help us create the Python variant.
+~R^2
 
 # SPARK-MAX-Examples
 ## Table of Contents
